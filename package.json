@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "challenege 10",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweinkauf/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweinkauf/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/sweinkauf/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest":"29.4.1",
+    "inquirer": "9.1.4"
+  }
+}
