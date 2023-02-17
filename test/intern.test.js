@@ -1,4 +1,4 @@
-const Intern = require('../lib/intern');
+const Intern = require('../lib/Intern');
 const intern = new Intern('scott', '1', 'scott@gmail.com', 'KU');
 
 test('should return constructor values for manager object', () => {
@@ -20,7 +20,7 @@ test('should get email from getEmail() method', () => {
     expect(intern.getEmail()).toBe('scott@gmail.com')
 });
 test('should get school from getSchool() method', () => {
-    expect(intern.getOfficeNumber()).toBe('KU')
+    expect(intern.getSchool()).toBe('KU')
 });
 
 test('should get role from getRole() method', () => {

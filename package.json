@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/sweinkauf/Team-Profile-Generator#readme",
   "devDependencies": {
-    "jest":"29.4.1",
-    "inquirer": "9.1.4"
+    "inquirer": "^8.2.5",
+    "jest": "29.4.1"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
   }
 }
