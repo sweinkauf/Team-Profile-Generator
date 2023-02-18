@@ -1,4 +1,5 @@
 # Team Profile Generator
+![Screen Shot 2023-02-17 at 9 02 21 PM](https://user-images.githubusercontent.com/112744293/219828418-cd5521aa-4700-4be6-a690-ca0b65620c6d.png)
 
 ## Description
 
